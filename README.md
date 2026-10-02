@@ -11,7 +11,7 @@
 - [Technologies Used](#technologies-used)
 - [Project Architecture](#project-architecture)
 - [Installation Guide](#installation-guide)
-- [Usage Instructions](#usage-instructions)
+- [Usage Instructions](#usage-instructions) 
 - [Database Schema](#database-schema)
 - [Key Insights](#key-insights)
 - [Screenshots](#screenshots)
