@@ -8,7 +8,7 @@
 - [Project Overview](#project-overview)
 - [Why This Project?](#why-this-project)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
+- [Technologies Used](#technologies-used) 
 - [Project Architecture](#project-architecture)
 - [Installation Guide](#installation-guide)
 - [Usage Instructions](#usage-instructions) 
